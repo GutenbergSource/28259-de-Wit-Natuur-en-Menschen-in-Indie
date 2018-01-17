@@ -1,0 +1,142 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="73859" filedate="2007-03-16 21:31:40" width="474px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/front.jpg" filesize="83436" filedate="2007-03-16 21:25:13" width="490px" height="720px">
+</image>
+<image path="images/initial-a.gif" filesize="4026" filedate="2009-03-01 16:08:15" width="104px" height="104px">
+</image>
+<image path="images/initial-d.gif" filesize="3878" filedate="2009-03-02 21:46:26" width="105px" height="105px">
+</image>
+<image path="images/initial-e.gif" filesize="3803" filedate="2009-03-03 20:34:08" width="104px" height="103px">
+</image>
+<image path="images/initial-h.gif" filesize="3632" filedate="2009-03-03 20:36:41" width="100px" height="99px">
+</image>
+<image path="images/initial-i.gif" filesize="3988" filedate="2009-03-03 20:39:49" width="105px" height="105px">
+</image>
+<image path="images/initial-k.gif" filesize="3842" filedate="2009-03-03 20:42:23" width="104px" height="103px">
+</image>
+<image path="images/initial-l.gif" filesize="3940" filedate="2009-03-03 21:23:57" width="104px" height="104px">
+</image>
+<image path="images/initial-m.gif" filesize="3732" filedate="2009-03-03 21:40:01" width="104px" height="100px">
+</image>
+<image path="images/initial-n.gif" filesize="3997" filedate="2009-03-03 21:41:28" width="101px" height="104px">
+</image>
+<image path="images/initial-o.gif" filesize="4181" filedate="2009-03-03 21:38:29" width="104px" height="105px">
+</image>
+<image path="images/initial-s.gif" filesize="4039" filedate="2009-03-03 21:37:25" width="103px" height="103px">
+</image>
+<image path="images/initial-t.gif" filesize="3943" filedate="2009-03-03 21:36:18" width="103px" height="103px">
+</image>
+<image path="images/initial-u.gif" filesize="4084" filedate="2009-03-03 21:32:32" width="104px" height="103px">
+</image>
+<image path="images/initial-v.gif" filesize="4279" filedate="2009-03-03 21:31:33" width="104px" height="103px">
+</image>
+<image path="images/initial-w.gif" filesize="4036" filedate="2009-03-03 21:30:15" width="105px" height="103px">
+</image>
+<image path="images/initial-z.gif" filesize="3930" filedate="2009-03-03 21:29:09" width="103px" height="104px">
+</image>
+<image path="images/ornament.gif" filesize="2201" filedate="2009-03-01 15:39:50" width="230px" height="75px">
+</image>
+<image path="images/p000.jpg" filesize="47202" filedate="2009-03-01 15:41:27" width="474px" height="336px">
+</image>
+<image path="images/p025.jpg" filesize="100644" filedate="2009-03-01 15:58:36" width="509px" height="696px">
+</image>
+<image path="images/p056.jpg" filesize="86464" filedate="2009-03-01 16:00:17" width="720px" height="477px">
+</image>
+<image path="images/p060.jpg" filesize="102046" filedate="2009-03-01 16:01:56" width="503px" height="695px">
+</image>
+<image path="images/p064.jpg" filesize="48384" filedate="2009-03-01 16:03:42" width="523px" height="403px">
+</image>
+<image path="images/p066.jpg" filesize="67128" filedate="2009-03-01 16:05:00" width="476px" height="625px">
+</image>
+<image path="images/p076.jpg" filesize="81917" filedate="2009-03-02 21:17:26" width="524px" height="695px">
+</image>
+<image path="images/p135.jpg" filesize="89815" filedate="2009-03-02 21:19:00" width="528px" height="694px">
+</image>
+<image path="images/p137.jpg" filesize="73469" filedate="2009-03-02 21:20:37" width="526px" height="694px">
+</image>
+<image path="images/p143.jpg" filesize="79573" filedate="2009-03-02 21:27:44" width="522px" height="693px">
+</image>
+<image path="images/p145.jpg" filesize="84140" filedate="2009-03-02 21:33:31" width="526px" height="694px">
+</image>
+<image path="images/p147.jpg" filesize="95716" filedate="2009-03-02 21:35:23" width="720px" height="477px">
+</image>
+<image path="images/p159.jpg" filesize="78387" filedate="2009-03-02 21:36:45" width="526px" height="697px">
+</image>
+<image path="images/p163.jpg" filesize="82895" filedate="2009-03-03 20:44:33" width="720px" height="478px">
+</image>
+<image path="images/p165.jpg" filesize="75416" filedate="2009-03-03 20:46:55" width="503px" height="696px">
+</image>
+<image path="images/p171.jpg" filesize="79137" filedate="2009-03-03 20:48:31" width="525px" height="696px">
+</image>
+<image path="images/p175.jpg" filesize="83346" filedate="2009-03-03 20:50:47" width="483px" height="693px">
+</image>
+<image path="images/p181.jpg" filesize="107593" filedate="2009-03-03 20:55:02" width="527px" height="720px">
+</image>
+<image path="images/p183.jpg" filesize="89272" filedate="2009-03-03 20:57:40" width="524px" height="694px">
+</image>
+<image path="images/p185.jpg" filesize="90197" filedate="2009-03-03 20:59:31" width="527px" height="693px">
+</image>
+<image path="images/p187.jpg" filesize="93616" filedate="2009-03-03 21:02:02" width="720px" height="480px">
+</image>
+<image path="images/p189.jpg" filesize="119738" filedate="2009-03-03 21:06:06" width="526px" height="697px">
+</image>
+<image path="images/p209.jpg" filesize="79371" filedate="2009-03-03 21:07:32" width="690px" height="462px">
+</image>
+<image path="images/p215.jpg" filesize="47641" filedate="2009-03-03 21:09:43" width="513px" height="376px">
+</image>
+<image path="images/p285.jpg" filesize="50044" filedate="2009-03-03 21:11:16" width="522px" height="407px">
+</image>
+<image path="images/p289.jpg" filesize="77467" filedate="2009-03-03 21:12:56" width="515px" height="693px">
+</image>
+<image path="images/p293.jpg" filesize="54896" filedate="2009-03-03 21:14:48" width="465px" height="617px">
+</image>
+<image path="images/p295.jpg" filesize="57604" filedate="2009-03-03 21:16:17" width="489px" height="628px">
+</image>
+<image path="images/p309.jpg" filesize="118658" filedate="2009-03-03 21:17:45" width="720px" height="472px">
+</image>
+<image path="images/p311.jpg" filesize="79536" filedate="2009-03-03 21:19:08" width="519px" height="694px">
+</image>
+<image path="images/p313.jpg" filesize="93287" filedate="2009-03-03 21:21:04" width="720px" height="473px">
+</image>
+<image path="images/p315.jpg" filesize="97340" filedate="2009-03-01 21:22:36" width="523px" height="691px">
+</image>
+<image path="images/p317.jpg" filesize="111748" filedate="2009-03-01 21:19:27" width="524px" height="683px">
+</image>
+<image path="images/p323.jpg" filesize="53438" filedate="2009-03-01 21:15:36" width="522px" height="398px">
+</image>
+<image path="images/p339.jpg" filesize="87445" filedate="2009-03-01 21:14:26" width="527px" height="693px">
+</image>
+<image path="images/p373.jpg" filesize="77043" filedate="2009-03-01 21:12:53" width="484px" height="636px">
+</image>
+<image path="images/p423.jpg" filesize="73652" filedate="2009-03-01 21:11:23" width="499px" height="642px">
+</image>
+<image path="images/p433.jpg" filesize="45510" filedate="2009-03-01 21:08:19" width="523px" height="396px">
+</image>
+<image path="images/p447.jpg" filesize="91718" filedate="2009-03-01 21:06:18" width="500px" height="639px">
+</image>
+<image path="images/p453.jpg" filesize="44640" filedate="2009-03-01 21:04:40" width="524px" height="374px">
+</image>
+<image path="images/p455.jpg" filesize="58213" filedate="2009-03-01 21:03:02" width="523px" height="406px">
+</image>
+<image path="images/p457.jpg" filesize="59429" filedate="2009-03-01 21:01:30" width="523px" height="409px">
+</image>
+<image path="images/p466.jpg" filesize="75962" filedate="2009-03-01 20:59:54" width="485px" height="632px">
+</image>
+<image path="images/p468.jpg" filesize="46904" filedate="2009-03-01 20:58:10" width="523px" height="395px">
+</image>
+<image path="images/p471.jpg" filesize="44750" filedate="2009-03-01 20:56:43" width="516px" height="367px">
+</image>
+<image path="images/spine.jpg" filesize="20657" filedate="2007-03-16 21:36:24" width="720px" height="129px">
+</image>
+<image path="images/titlepage1.gif" filesize="70703" filedate="2009-03-01 15:28:19" width="472px" height="720px">
+</image>
+<image path="images/titlepage2.gif" filesize="55019" filedate="2009-03-01 15:37:57" width="480px" height="720px">
+</image>
+</images>
